@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				bulgarian.php
+// Language name: 		Bulgarian
+// Translated name: 	български
+//
+
 $_lang["download"] = "Изтегли";
 $_lang["home"] = "Начало";
 $_lang["status"] = "Състояние на сървърите";

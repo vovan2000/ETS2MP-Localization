@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				russian.php
+// Language name: 		Russian
+// Translated name: 	Русский
+//
+
 $_lang["download"] = "Скачать";
 $_lang["home"] = "Главная";
 $_lang["status"] = "Статус серверов";

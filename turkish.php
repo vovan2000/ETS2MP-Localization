@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				turkish.php
+// Language name: 		Turkish
+// Translated name: 	Türkçe
+//
+
 $_lang["download"] = "İndir";
 $_lang["home"] = "Anasayfa";
 $_lang["status"] = "Sunucu Durumu";

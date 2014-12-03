@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				german.php
+// Language name: 		German
+// Translated name: 	Deutsch
+//
+
 $_lang["download"] = "Download";
 $_lang["home"] = "Home";
 $_lang["status"] = "Status";
