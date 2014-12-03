@@ -89,3 +89,15 @@ $_lang["invalid.mail.forgot.password"] = "Wir können leider keinen Account mit 
 $_lang["steamid.in.use"] = "Es wurden andere ETS2MP-Accounts, welche mit diesem Steam-Account verkn&uuml;pft sind, gefunden. Sollte ein Problem bestehen, so <a href=\"http://ets2mp.com/index.php?page=contact\">kontaktiere uns</a>.";
 $_lang["mail.does.not.match"] = "Die eingegebene E-Mail-Adresse stimmt nicht &uuml;berein.";
 $_lang["support"] = "Support";
+$_lang["profile"] = "Profil";
+$_lang["group"] = "Gruppe";
+$_lang["banned"] = "Gebannt";
+$_lang["state"] = "Status";
+$_lang["account.is.activated"] = "Account ist aktiviert";
+$_lang["account.isnt.actiated"] = "Account ist nicht aktiviert";
+$_lang["penalty.history"] = "Straf-Log";
+$_lang["no.punishments"] = "Keine Strafen registriert.";
+$_lang["date"] = "Datum";
+$_lang["reason"] = "Grund";
+$_lang["type"] = "Typ";
+$_lang["penalty.limit"] = "Nur der Profileigent&uuml;mer kann eine l&auml;ngere Liste aller Strafen einsehen.";

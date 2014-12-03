@@ -88,4 +88,15 @@ $_lang["contact.message.too.short"] = "Správa je príliš krátka. Musí obsaho
 $_lang["contact.topic.too.short"] = "Názov témy je príliš krátky. Použite minimálne 10 znakov.";
 $_lang["steamid.in.use"] = "Boli nájdené ETS2MP účty pripojené k tomuto Steam účtu. Ak máte problémy s registráciou, prosím <a href=\"http://ets2mp.com/index.php?page=contact\">kontaktujte nás</a>.";
 $_lang["mail.does.not.match"] = "Zadaná e-mail adresa sa nezhoduje.";
-$_lang["support"] = "Pomoc";
+$_lang["profile"] = "Profil";
+$_lang["group"] = "Skupina";
+$_lang["banned"] = "Zabanovaný";
+$_lang["state"] = "Stav";
+$_lang["account.is.activated"] = "Účet je aktivovaný";
+$_lang["account.isnt.actiated"] = "Účet nie je aktivovaný";
+$_lang["penalty.history"] = "História trestov";
+$_lang["no.punishments"] = "Žiadne tresty na ukázanie.";
+$_lang["date"] = "Dátum";
+$_lang["reason"] = "Dôvod";
+$_lang["type"] = "Typ";
+$_lang["penalty.limit"] = "Iba majiteľ tohto profilu môže vidieť dlhšiu verziu trestov.";
