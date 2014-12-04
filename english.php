@@ -92,7 +92,7 @@ $_lang["topic"] = "Topic";
 $_lang["contact.message.too.short"] = "Message is too short. Minimum 10 characters.";
 $_lang["contact.topic.too.short"] = "Topic is too short. Minimum 10 characters.";
 $_lang["invalid.mail.forgot.password"] = "We are unable to find any account with this mail.";
-$_lang["steamid.in.use"] = "We've found ETS2MP accounts connected to this steam account. If you have any problems with registration please <a href=\"http://ets2mp.com/support/\">create a support ticket</a>.";
+$_lang["steamid.in.use"] = "We've found ETS2MP account already connected to this steam account. If you have any problems with registration please <a href=\"http://ets2mp.com/support/\">create a support ticket</a>.";
 $_lang["mail.does.not.match"] = "Given e-mail address does not match.";
 $_lang["support"] = "Support";
 $_lang["profile"] = "Profile";
