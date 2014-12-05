@@ -92,7 +92,7 @@ $_lang["topic"] = "Předmět";
 $_lang["contact.message.too.short"] = "Zpráva je moc krátká. Minimum je 10 znaků.";
 $_lang["contact.topic.too.short"] = "Předmět je moc krátký. Minimum je 10 znaků.";
 $_lang["invalid.mail.forgot.password"] = "Nepodařilo se nám najít žádný účet s tímto emailem.";
-$_lang["steamid.in.use"] = "Nalezli jsme ETS2MP účty připojené k tomuto Steam účtu. Pokud máte jakékoli problémy s registrací, <a href=\"http://ets2mp.com/support/\">založte prosím ticket na podpoře</a>.";
+$_lang["steamid.in.use"] = "Nalezli jsme ETS2MP účet připojený k tomuto Steam účtu. Pokud máte jakékoli problémy s registrací, <a href=\"http://ets2mp.com/support/\">založte prosím ticket na podpoře</a>.";
 $_lang["mail.does.not.match"] = "Zadané email adresy se neshodují.";
 $_lang["support"] = "Podpora";
 $_lang["profile"] = "Profil";
